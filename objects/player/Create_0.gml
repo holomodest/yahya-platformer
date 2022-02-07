@@ -4,7 +4,8 @@ global.coins = 0;
 global.points = 0;
 
 
-
+hp =5;
+iFrames = false;
 
 xSpeed = 4;
 

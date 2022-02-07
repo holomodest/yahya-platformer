@@ -48,8 +48,8 @@ yVector = jumpForce
 }
 if (y >= room_height)
 {
-room_restart();
-}
+	Playerdeath()
 
+}
 
 
