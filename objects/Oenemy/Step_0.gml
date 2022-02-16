@@ -10,3 +10,8 @@ if (!isInvincible)
 	}
 	
 }
+if (distance_to_object(player) < 150)
+{
+mp_potential_step(player.x,player.y,1.5,false)
+}
+

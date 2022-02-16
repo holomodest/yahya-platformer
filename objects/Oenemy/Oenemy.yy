@@ -3,7 +3,7 @@
     "name": "Sprite9",
     "path": "sprites/Sprite9/Sprite9.yy",
   },
-  "solid": false,
+  "solid": true,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
