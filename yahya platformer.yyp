@@ -6,6 +6,9 @@
     {"id":{"name":"Sprite7","path":"sprites/Sprite7/Sprite7.yy",},"order":16,},
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},"order":0,},
     {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},"order":15,},
+    {"id":{"name":"StatePlayerjumping","path":"scripts/StatePlayerjumping/StatePlayerjumping.yy",},"order":5,},
+    {"id":{"name":"StatePlayerWalking","path":"scripts/StatePlayerWalking/StatePlayerWalking.yy",},"order":4,},
+    {"id":{"name":"checkcollision","path":"scripts/checkcollision/checkcollision.yy",},"order":3,},
     {"id":{"name":"Sprite9","path":"sprites/Sprite9/Sprite9.yy",},"order":6,},
     {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},"order":1,},
     {"id":{"name":"PlayerHurt","path":"scripts/PlayerHurt/PlayerHurt.yy",},"order":0,},
@@ -16,6 +19,7 @@
     {"id":{"name":"Swall","path":"sprites/Swall/Swall.yy",},"order":4,},
     {"id":{"name":"Owall","path":"objects/Owall/Owall.yy",},"order":2,},
     {"id":{"name":"HUD","path":"objects/HUD/HUD.yy",},"order":3,},
+    {"id":{"name":"checkimput","path":"scripts/checkimput/checkimput.yy",},"order":2,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
