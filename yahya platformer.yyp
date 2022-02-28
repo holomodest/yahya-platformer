@@ -5,6 +5,7 @@
     {"id":{"name":"Scoin","path":"sprites/Scoin/Scoin.yy",},"order":2,},
     {"id":{"name":"Sprite7","path":"sprites/Sprite7/Sprite7.yy",},"order":16,},
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},"order":0,},
+    {"id":{"name":"Sprite10","path":"sprites/Sprite10/Sprite10.yy",},"order":7,},
     {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},"order":15,},
     {"id":{"name":"StatePlayerjumping","path":"scripts/StatePlayerjumping/StatePlayerjumping.yy",},"order":5,},
     {"id":{"name":"StatePlayerWalking","path":"scripts/StatePlayerWalking/StatePlayerWalking.yy",},"order":4,},

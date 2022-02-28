@@ -3,6 +3,8 @@
 function StatePlayerjumping(){
 	yVector = jumpForce
 	
-	if (place_meeting(x, y+1, Owall){ 
+	if (place_meeting(x, y+1, Owall))
+	{ 
 	state = states.walking;
+	}
 }
