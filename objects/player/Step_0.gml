@@ -1,12 +1,12 @@
  /// @description Insert description here
 // You can write your code in this editor
 
-if (state == states.walking)
+if (state = states.walking)
 {
 	StatePlayerWalking()
 }
 
-if (state == states.jumping)
+if (state = states.jumping)
 {
 	StatePlayerjumping()
 }
