@@ -7,7 +7,12 @@ walking,
 jumping,
 }
 
-states = states.walking
+state_array[states.walking] = StatePlayerWalking;
+state_array[states.jumping] = StatePlayerjumping;
+
+
+
+state = states.walking
 
 global.coins = 0;
 global.points = 0;

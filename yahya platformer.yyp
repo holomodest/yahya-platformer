@@ -18,6 +18,7 @@
     {"id":{"name":"EnemyHurt","path":"scripts/EnemyHurt/EnemyHurt.yy",},"order":1,},
     {"id":{"name":"Ocoin","path":"objects/Ocoin/Ocoin.yy",},"order":1,},
     {"id":{"name":"Swall","path":"sprites/Swall/Swall.yy",},"order":4,},
+    {"id":{"name":"Sprite13","path":"sprites/Sprite13/Sprite13.yy",},"order":10,},
     {"id":{"name":"Sprite11","path":"sprites/Sprite11/Sprite11.yy",},"order":8,},
     {"id":{"name":"Owall","path":"objects/Owall/Owall.yy",},"order":2,},
     {"id":{"name":"HUD","path":"objects/HUD/HUD.yy",},"order":3,},

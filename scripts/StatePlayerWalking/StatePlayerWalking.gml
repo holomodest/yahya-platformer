@@ -6,22 +6,27 @@ checkimput();
 
 xDirection = right - left;
 
+image_xscale = sign(xDirection);
+
 xVector = xSpeed * xDirection
 
-yVector = yVector + grv;
-
 checkcollisionx();
-
-
 
 x = x + xVector;
 
 
-
+yVector = yVector + grv;
 
 
 checkcollisiony();
 
  
 y = y + yVector
+
+
+
+if(place_meeting(x, y+1, Owall) and (jump))
+{
+	state = states.jumping
+}
 }
