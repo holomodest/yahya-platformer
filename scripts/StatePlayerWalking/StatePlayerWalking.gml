@@ -5,9 +5,10 @@ function StatePlayerWalking()
 checkimput();
 
 xDirection = right - left;
-
-image_xscale = sign(xDirection);
-
+if (xDirection != 0)
+{
+image_xscale = (xDirection);
+}
 xVector = xSpeed * xDirection
 
 checkcollisionx();
@@ -17,10 +18,8 @@ x = x + xVector;
 
 yVector = yVector + grv;
 
-
 checkcollisiony();
 
- 
 y = y + yVector
 
 
