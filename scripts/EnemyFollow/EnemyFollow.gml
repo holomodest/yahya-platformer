@@ -1,16 +1,10 @@
 // Script assets have changed for v2.3.0 see
 // https://help.yoyogames.com/hc/en-us/articles/360005277377 for more information
-function StatePlayerWalking()
+function EnemyFollow()
 {
-MoveX()
-
-
-MoveY()
-
-
-
-if(place_meeting(x, y+1, Owall) and (jump))
+if (distance_to_object(player) < 360)
 {
-	state = states.jumping
+mp_potential_step(player.x,player.y,1.5,false)
 }
+
 }

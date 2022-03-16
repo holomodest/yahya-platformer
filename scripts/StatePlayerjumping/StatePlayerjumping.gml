@@ -7,9 +7,8 @@ function StatePlayerjumping()
 		canJump = false;
 		yVector = jumpForce;
 	}
-	yVector = yVector + grv;
-	checkcollisiony();
-	y = y + yVector
+	MoveX();
+	MoveY();
 	
 	
 	if (xDirection != 0)

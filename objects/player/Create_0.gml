@@ -12,8 +12,11 @@ jumping,
 state_array[states.walking] = StatePlayerWalking;
 state_array[states.jumping] = StatePlayerjumping;
 
+
+
 sprite_array[states.walking] = Splayer;
 sprite_array[states.jumping] = Splayerjump;
+
 
 state = states.walking
 
@@ -36,4 +39,6 @@ xVector = xSpeed * xDirection
 yVector = 0;
 
 grv = .45;
-jumpForce = -8;
+jumpForce = -20;
+dsh = keyboard_check_pressed(vk_alt)
+dsh = xSpeed *2
