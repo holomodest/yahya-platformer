@@ -12,3 +12,6 @@ if (!isInvincible)
 }
 EnemyFollow();
 
+sprite_index = sprite_array[state]
+
+
