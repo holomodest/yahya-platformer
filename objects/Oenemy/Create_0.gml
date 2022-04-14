@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 isInvincible = false;
-hp = 1;
+hp = 2;
 invTimer = 2;
 
 enum statess

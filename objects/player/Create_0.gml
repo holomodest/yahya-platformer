@@ -38,7 +38,9 @@ xVector = xSpeed * xDirection
 
 yVector = 0;
 
-grv = .45;
+grv = .5;
 jumpForce = -20;
 dsh = keyboard_check_pressed(vk_alt)
 dsh = xSpeed *2
+
+
