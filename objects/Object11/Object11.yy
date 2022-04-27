@@ -1,16 +1,13 @@
 {
   "spriteId": {
-    "name": "sidewall2",
-    "path": "sprites/sidewall2/sidewall2.yy",
+    "name": "Sflag2",
+    "path": "sprites/Sflag2/Sflag2.yy",
   },
-  "solid": true,
+  "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": {
-    "name": "Owall",
-    "path": "objects/Owall/Owall.yy",
-  },
+  "parentObjectId": null,
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -31,7 +28,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Osidewall2",
+  "name": "Object11",
   "tags": [],
   "resourceType": "GMObject",
 }

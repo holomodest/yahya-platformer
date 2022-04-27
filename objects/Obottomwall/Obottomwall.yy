@@ -3,7 +3,7 @@
     "name": "bottomwall",
     "path": "sprites/bottomwall/bottomwall.yy",
   },
-  "solid": false,
+  "solid": true,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
